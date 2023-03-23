@@ -1,0 +1,8 @@
+[submodule "mohammodwebsite/mohammod.github.io"]
+	path = mohammodwebsite/mohammod.github.io
+	url = https://github.com/Mohammod-Naimul-Islam-Suvon/mohammod.github.io.git
+	branch = main
+[submodule "mohammodwebsite/public"]
+	path = mohammodwebsite/public
+	url = https://github.com/Mohammod-Naimul-Islam-Suvon/mohammod.github.io.git
+	branch = main
